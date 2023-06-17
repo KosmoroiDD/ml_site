@@ -1,0 +1,356 @@
+.imgwall{
+ width:800px;
+ height:400px;
+}
+.problem{
+  margin-left:-50px;
+}
+.txt{
+  color:gray;
+  font-family:Arial;
+  font-size:20px;
+}
+.gear{
+  width:50px;
+  height:50px;
+}
+.line{
+    color:gray;
+  font-family:Arial;
+  font-size:30px;
+  text-shadow: -1px 1px 1px white;
+  width:900px;
+}
+.afts{
+  margin-top:-20px;
+}
+.skills{
+ width:70px;
+ height:70px;
+}
+.gifer{
+  margin-top:0px;
+  width:180px;
+  height:248px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-750px;
+}
+.gife{
+  margin-top:10px;
+  width:180px;
+  height:248px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-600px;
+}
+.c{
+margin-top:-8px;
+}
+.ccc{
+  margin-top:-40px;
+}
+::-webkit-scrollbar { width: 4px; height: 4px;}
+::-webkit-scrollbar-button {  background-color: white; }
+::-webkit-scrollbar-track {  background-color: white;}
+::-webkit-scrollbar-track-piece { background-color: white;}
+::-webkit-scrollbar-thumb { height: 50px; background-color:gray; border-radius: 5px;}
+::-webkit-scrollbar-corner { background-color: #999;}}
+::-webkit-resizer { background-color: #666;}
+    @media screen and (max-width: 1680px) {
+.imgwall{
+ width:800px;
+ height:400px;
+}
+.problem{
+  margin-left:-50px;
+}
+.txt{
+  color:gray;
+  font-family:Arial;
+  font-size:18px;
+}
+.line{
+    color:gray;
+  font-family:Arial;
+  font-size:30px;
+  text-shadow: -1px 1px 1px white;
+  text-align:center;
+}
+.gifer{
+  margin-top:10px;
+  width:180px;
+  height:248px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-750px;
+}
+.gife{
+  margin-top:10px;
+  width:180px;
+  height:248px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-600px;
+}
+.c{
+margin-top:-8px;
+}
+.ccc{
+  margin-top:-40px;
+}
+    }
+
+    @media screen and (max-width: 1280px) {
+.imgwall{
+ width:800px;
+ height:400px;
+}
+.problem{
+  margin-left:-50px;
+}
+.txt{
+  color:gray;
+  font-family:Arial;
+  font-size:20px;
+}
+.line{
+    color:gray;
+  font-family:Arial;
+  font-size:30px;
+  text-shadow: -1px 1px 1px white;
+  text-align:center;
+}
+.gifer{
+  margin-top:10px;
+  width:180px;
+  height:248px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-750px;
+}
+.gife{
+  margin-top:10px;
+  width:180px;
+  height:248px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-600px;
+}
+.c{
+margin-top:-8px;
+}
+.ccc{
+  margin-top:-40px;
+}
+    }
+
+    @media screen and (max-width: 980px) {
+.imgwall{
+ width:700px;
+ height:400px;
+ margin-left:-20px;
+}
+.problem{
+  margin-left:-50px;
+}
+.txt{
+  color:gray;
+  font-family:Arial;
+  font-size:18px;
+}
+.line{
+    color:gray;
+  font-family:Arial;
+  font-size:30px;
+  text-shadow: -1px 1px 1px white;
+  text-align:center;
+  width:700px;
+}
+.gifer{
+  margin-top:10px;
+  width:180px;
+  height:248px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-450px;
+}
+.gife{
+  margin-top:10px;
+  width:180px;
+  height:248px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-600px;
+}
+.c{
+margin-top:-8px;
+}
+.ccc{
+  margin-top:-40px;
+}
+    }
+
+    @media screen and (max-width: 320px) {
+.imgwall{
+  margin-left:-10px;
+ width:300px;
+ height:180px;
+}
+.phone{
+  width:208px;
+  height:122px;
+}
+.afts{
+  margin-top:-20px;
+}
+.skills{
+ width:50px;
+ height:50px;
+}
+.problem{
+  margin-left:0px;
+}
+.txt{
+  color:gray;
+  font-family:Arial;
+  font-size:15px;
+  margin-bottom:-5px;
+}
+.line{
+    color:gray;
+  font-family:Arial;
+  font-size:19px;
+  text-shadow: -1px 1px 1px white;
+  text-align:center;
+  width:300px;
+}
+.gifer{
+  margin-top:0px;
+  margin-bottom:55px;
+  width:160px;
+  height:228px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-320px;
+}
+.gife{
+  margin-top:10px;
+  width:180px;
+  height:248px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-350px;
+  margin-bottom:25px;
+}
+.c{
+margin-top:3px;
+}
+.ccc{
+  margin-top:-32px;
+}
+    }
+     @media screen and (max-width: 375px) {
+.imgwall{
+  margin-left:-10px;
+ width:350px;
+ height:190px;
+}
+.phone{
+  width:208px;
+  height:122px;
+}
+.afts{
+  margin-top:-20px;
+}
+.skills{
+ width:50px;
+ height:50px;
+}
+.problem{
+  margin-left:0px;
+}
+.txt{
+  color:gray;
+  font-family:Arial;
+  font-size:13px;
+  margin-bottom:-5px;
+}
+.line{
+    color:gray;
+  font-family:Arial;
+  font-size:19px;
+  text-shadow: -1px 1px 1px white;
+  text-align:center;
+  width:350px;
+}
+.gifer{
+  margin-top:0px;
+  margin-bottom:55px;
+  width:160px;
+  height:228px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-350px;
+}
+.gife{
+  margin-top:10px;
+  width:180px;
+  height:248px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-350px;
+  margin-bottom:25px;
+}
+.c{
+margin-top:3px;
+}
+.ccc{
+  margin-top:-32px;
+}
+    }
+     @media screen and (max-width: 425px) {
+.imgwall{
+  margin-left:-10px;
+ width:400px;
+ height:200px;
+}
+.phone{
+  width:208px;
+  height:122px;
+}
+.afts{
+  margin-top:-20px;
+}
+.skills{
+ width:50px;
+ height:50px;
+}
+.problem{
+  margin-left:0px;
+}
+.txt{
+  color:gray;
+  font-family:Arial;
+  font-size:13px;
+  margin-bottom:-5px;
+}
+.line{
+    color:gray;
+  font-family:Arial;
+  font-size:19px;
+  text-shadow: -1px 1px 1px white;
+  text-align:center;
+  width:350px;
+}
+.gifer{
+  margin-top:0px;
+  margin-bottom:55px;
+  width:160px;
+  height:228px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-350px;
+}
+.gife{
+  margin-top:10px;
+  width:180px;
+  height:248px;
+  border-radius:20px 20px 20px 20px;
+  margin-left:-350px;
+  margin-bottom:25px;
+}
+.c{
+margin-top:3px;
+}
+.ccc{
+  margin-top:-32px;
+}
+    }
